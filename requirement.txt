@@ -1,0 +1,6 @@
+beautifulsoup4==4.11.1
+selenium==4.11.0
+apache-airflow==2.7.2
+webdriver-manager==4.0.1
+pymongo==4.3.3
+minio
